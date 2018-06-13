@@ -1,0 +1,2 @@
+SELECT
+setval(@sequence@,@val@)

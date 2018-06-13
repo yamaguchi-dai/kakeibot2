@@ -1,0 +1,29 @@
+-- Project Name : KakeiBot2
+-- Date/Time    : 2018/04/10 23:25:24
+-- Author       : dai.yamaguchi
+-- RDBMS Type   : PostgreSQL
+-- Application  : A5:SQL Mk-2
+
+-- éxï•Ç¢
+drop table if exists T_PAYMENT cascade;
+
+create table T_PAYMENT (
+  id varchar(256) not null
+  , line_id varchar(256) not null
+  , category_id varchar(4) not null
+  , price varchar(10)
+  , comment varchar(256)
+  , created_at varchar(14) not null
+  , updated_at varchar(14) not null
+  , constraint T_PAYMENT_PKC primary key (id)
+) ;
+
+comment on table T_PAYMENT is 'éxï•Ç¢';
+comment on column T_PAYMENT.id is 'ID';
+comment on column T_PAYMENT.line_id is 'LINEID';
+comment on column T_PAYMENT.category_id is 'ÉJÉeÉSÉäID';
+comment on column T_PAYMENT.price is 'éxï•Ç¢ã‡äz';
+comment on column T_PAYMENT.comment is 'ÉRÉÅÉìÉg';
+comment on column T_PAYMENT.created_at is 'çÏê¨ì˙';
+comment on column T_PAYMENT.updated_at is 'çXêVì˙';
+

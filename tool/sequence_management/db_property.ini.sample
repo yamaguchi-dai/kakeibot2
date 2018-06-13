@@ -1,0 +1,7 @@
+;コメント
+[postgres]
+HOST=
+PORT=
+DATABASE=
+USERNAME=
+DPASSWORD=

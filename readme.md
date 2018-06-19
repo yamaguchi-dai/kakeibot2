@@ -38,9 +38,9 @@ Rubyで書きたい。
 
 
 #### 雑にスクショ
-<img src="https://user-images.githubusercontent.com/20530099/41573345-3c501616-73b7-11e8-99ae-d89d922be8c9.JPG" width="30%">
-<img src="https://user-images.githubusercontent.com/20530099/41573365-4f9afee8-73b7-11e8-983b-d5e4bb3f3786.JPG" width="30%">
-<img src="https://user-images.githubusercontent.com/20530099/41573380-5a85b028-73b7-11e8-9212-ea0177889e8f.JPG" width="30%">
-<img src="https://user-images.githubusercontent.com/20530099/41573404-743e7e82-73b7-11e8-958e-87e57252217d.JPG" width="30%">
-<img src="https://user-images.githubusercontent.com/20530099/41573413-7e2891bc-73b7-11e8-8ea8-02554a38dd8c.JPG" width="30%">
+<img src="https://user-images.githubusercontent.com/20530099/41574095-f5472cce-73ba-11e8-9fd1-a2e31be9cb3e.JPG" width="30%">
+<img src="https://user-images.githubusercontent.com/20530099/41574097-f774504e-73ba-11e8-86fd-ba72717503c8.JPG" width="30%">
+<img src="https://user-images.githubusercontent.com/20530099/41574100-f9e00238-73ba-11e8-94fd-f372ca645301.JPG" width="30%">
+<img src="https://user-images.githubusercontent.com/20530099/41574101-fa08b6d8-73ba-11e8-85bb-1d40f0c03755.JPG" width="30%">
+<img src="https://user-images.githubusercontent.com/20530099/41574103-fa315e80-73ba-11e8-8b80-705fa5cc2970.JPG" width="30%">
 
